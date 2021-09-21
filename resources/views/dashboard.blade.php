@@ -12,6 +12,8 @@
                     You're logged in!
                 </div>
             </div>
+            {{-- For Testing Vue JS Configuration --}}
+            <example-component></example-component>
         </div>
     </div>
 </x-app-layout>
